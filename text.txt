@@ -1,0 +1,5 @@
+load data using async .
+search phone and showing it.
+show specific 12 data.
+show load data spinner.
+show detail
